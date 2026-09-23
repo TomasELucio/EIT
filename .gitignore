@@ -1,0 +1,14 @@
+# Inicio de configuración de Ltspice
+# Archivos temporales y de simulación de LTspice
+*.raw
+*.log
+*.fft
+*.op.raw
+*.net
+*.tmp
+*.bak
+
+# Archivos de autoguardado e interfaz
+*.asi
+*.plt
+# Final de configuración de Ltspice
