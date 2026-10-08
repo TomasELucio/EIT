@@ -1,0 +1,26 @@
+!SESSION 2026-09-15 21:33:04.794 -----------------------------------------------
+eclipse.buildId=Version 2.2.0
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  /home/tomaslucio/Code/EIT_CODE/.project
+Command-line arguments:  -os linux -ws gtk -arch x86_64 /home/tomaslucio/Code/EIT_CODE/.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-09-15 21:34:31.914
+!MESSAGE Log4j2 initialized with config file /home/tomaslucio/Code/EIT_CODE/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-09-15 21:34:35.007
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2026-09-15 21:36:33.571 -----------------------------------------------
+eclipse.buildId=Version 2.2.0
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  /home/tomaslucio/Code/EIT_CODE/.project
+Command-line arguments:  -os linux -ws gtk -arch x86_64 /home/tomaslucio/Code/EIT_CODE/.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-09-15 21:36:59.742
+!MESSAGE Log4j2 initialized with config file /home/tomaslucio/Code/EIT_CODE/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-09-15 21:37:03.000
+!MESSAGE Started RMI Server, listening on port 41337
